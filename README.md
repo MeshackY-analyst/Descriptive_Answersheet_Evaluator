@@ -80,8 +80,6 @@ to provide accurate and scalable assessment solutions.
 ```text
 Answer Sheet Upload
         ↓
-OCR / Text Extraction
-        ↓
 LLM-Based Evaluation
         ↓
 Semantic Analysis & Scoring
