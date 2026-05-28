@@ -1,0 +1,11 @@
+langgraph
+langchain-core
+langchain-google-genai
+pandas
+PyMuPDF
+Pillow
+python-dotenv 
+streamlit 
+typing_extensions
+google-auth
+openpyxl
